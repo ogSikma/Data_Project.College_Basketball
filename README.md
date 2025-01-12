@@ -1,1 +1,3 @@
-# Data_Project.College_Basketball
+# Project overview
+
+Data taken from https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset/data
