@@ -176,3 +176,31 @@ But the question included what statistics have followed such tremendous progress
 
 ![VirginiaStats](https://github.com/user-attachments/assets/721eebae-4740-46ea-b900-34134beb7398)
 *Virginia stats in championship year 2019 in comparison to 2018*
+
+
+## 4. Is the championships won by offense or defense?
+Ah, yes. The eternal conundrum, the fight, the verbal tussle. 
+Can a hole in the defense be patched up with a fast and aggressive attack? 
+Can a sluggish offensive be covered up by a tough and thoughtful defense?
+
+The set of statistics I've been working on doesn't go that deep into this area - in fact, the database really offers a lot of data, but superficial. 
+But working with what I had I visualized the relevant data to shed some light on the matter.
+
+I divided the actual dataframe into separate dataframes, which I grouped by:
+- all teams
+- teams **without** advance to the playoffs
+- teams **with** advance to the playoffs
+- championship teams
+I then presented on line graphs the ADJDE and ADJOE metrics, which are ratings of defensive and offensive efficiency.
+In separate charts, I presented the percentage difference between championship teams and teams with advance to the playoffs.
+
+### Results 
+
+![Comparing teams offense defense percentage](https://github.com/user-attachments/assets/b8adb69d-1955-4ae0-9536-a7a621563e31)
+
+### Insights:
+- Best offensive of the championship team? **2018 Villanova**. An offensive metric as high as 128.4! 15% more than the rest of the teams in the playoffs. The worst offensive? **2014 Connecticut**, only 112.5. managed to fit with a score 0.14% better than the average of playoff teams. And this allowed the following conclusion:
+- in every year, the champion team had a better offensive performance than the playoff average. Barely!
+- Best defense? **2013 Louisville**, with a defensive metric of 84.5 - 10% better than the average of playoff teams! Worst defense? **2021 Baylor** with a score of 94.5. Poor, less than 1% better than the average of playoff teams....
+- ...but it's also fair to say that every championship team had a better defensive performance. Barely x2!
+- Summary, the bigger differences between the championship teams and the rest can be seen in offense - the defense is more similar to other teams, especially the playoff teams, but it's still outclassed. Still, minimally it is the offense that stands out more, **so one can conclude from this data that the offense is more important**.
