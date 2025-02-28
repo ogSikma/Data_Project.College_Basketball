@@ -171,10 +171,10 @@ Important: in 2021 we refer to 2019, as there were no games in 2020 (covid)
 ### Stats visualization
 But the question included what statistics have followed such tremendous progress? To show this we will choose the team from the first place in the table, Connecticut and, for example, Virginia from the third place.
 
-![ConnecticutStats](https://github.com/user-attachments/assets/95988214-8d5a-44e6-89da-70766f7dda48)
+![Connecticut](https://github.com/user-attachments/assets/7c3fbb5f-96a8-4af7-a4d8-c1b8c81151fb)
 *Connecticut stats in championship year 2014 in comparison to 2013*
 
-![VirginiaStats](https://github.com/user-attachments/assets/721eebae-4740-46ea-b900-34134beb7398)
+![Virginia](https://github.com/user-attachments/assets/09ddd873-1b82-4c5f-a7c1-4f10db5d7f79)
 *Virginia stats in championship year 2019 in comparison to 2018*
 
 
@@ -196,7 +196,8 @@ In separate charts, I presented the percentage difference between championship t
 
 ### Results 
 
-![Comparing teams offense defense percentage](https://github.com/user-attachments/assets/b8adb69d-1955-4ae0-9536-a7a621563e31)
+![OffenseOrDefense](https://github.com/user-attachments/assets/d341636e-e521-43a2-a14f-64ddec3ca821)
+*ADJOE and ADJDE between teams*
 
 ### Insights:
 - Best offensive of the championship team? **2018 Villanova**. An offensive metric as high as 128.4! 15% more than the rest of the teams in the playoffs. The worst offensive? **2014 Connecticut**, only 112.5. managed to fit with a score 0.14% better than the average of playoff teams. And this allowed the following conclusion:
